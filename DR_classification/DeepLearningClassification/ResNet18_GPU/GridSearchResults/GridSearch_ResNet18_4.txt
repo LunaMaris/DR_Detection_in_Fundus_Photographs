@@ -1,0 +1,112 @@
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.512782096862793, standard deviation: 0.015252174809575081 
+AUPR: mean: 0.514952540397644, standard deviation: 0.0682823657989502 
+Loss: mean: 0.1159723699092865, standard deviation: 0.0003747004084289074 
+training time per epoch: mean: 82.98158272107442 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.4985085725784302, standard deviation: 0.002743202494457364 
+AUPR: mean: 0.5193670988082886, standard deviation: 0.04075202718377113 
+Loss: mean: 0.1163419783115387, standard deviation: 0.000970014720223844 
+training time per epoch: mean: 39.47800612449646 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5118607878684998, standard deviation: 0.04407946765422821 
+AUPR: mean: 0.5401041507720947, standard deviation: 0.01902918517589569 
+Loss: mean: 0.5027931332588196, standard deviation: 0.549697756767273 
+training time per epoch: mean: 80.87839857737224 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5098870396614075, standard deviation: 0.008234893903136253 
+AUPR: mean: 0.5413064360618591, standard deviation: 0.05197545513510704 
+Loss: mean: 0.11589786410331726, standard deviation: 0.0006717914948239923 
+training time per epoch: mean: 39.88621346155802 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 12, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5265849232673645, standard deviation: 0.04180791229009628 
+AUPR: mean: 0.5592190623283386, standard deviation: 0.02114143967628479 
+Loss: mean: 0.057406868785619736, standard deviation: 0.0004215275985188782 
+training time per epoch: mean: 69.86183055241902 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 12, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5038068294525146, standard deviation: 0.017576728016138077 
+AUPR: mean: 0.5400586128234863, standard deviation: 0.03614114224910736 
+Loss: mean: 0.05794025585055351, standard deviation: 0.0007245150045491755 
+training time per epoch: mean: 36.37700835863749 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 12, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5070281624794006, standard deviation: 0.012902865186333656 
+AUPR: mean: 0.5424813628196716, standard deviation: 0.04596986621618271 
+Loss: mean: 0.05742642655968666, standard deviation: 0.0003831573994830251 
+training time per epoch: mean: 70.1103864510854 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 12, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5010945200920105, standard deviation: 0.004826453514397144 
+AUPR: mean: 0.532329261302948, standard deviation: 0.05937056615948677 
+Loss: mean: 0.05748850107192993, standard deviation: 0.0002577149134594947 
+training time per epoch: mean: 37.18968280156454 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5372154116630554, standard deviation: 0.01271926611661911 
+AUPR: mean: 0.5550668835639954, standard deviation: 0.036648910492658615 
+Loss: mean: 0.11557107418775558, standard deviation: 0.0003902454918716103 
+training time per epoch: mean: 83.02399198214214 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5250604152679443, standard deviation: 0.015426267869770527 
+AUPR: mean: 0.539579451084137, standard deviation: 0.02750309742987156 
+Loss: mean: 0.11560577154159546, standard deviation: 0.0002538812696002424 
+training time per epoch: mean: 40.221540689468384 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5146541595458984, standard deviation: 0.01647193916141987 
+AUPR: mean: 0.5140318274497986, standard deviation: 0.03190849721431732 
+Loss: mean: 0.11563152074813843, standard deviation: 0.0001238901459146291 
+training time per epoch: mean: 82.41935817400615 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5531161427497864, standard deviation: 0.042963363230228424 
+AUPR: mean: 0.5648805499076843, standard deviation: 0.033634744584560394 
+Loss: mean: 0.11554306745529175, standard deviation: 0.00019140834046993405 
+training time per epoch: mean: 40.48622051874796 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 12, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5306382775306702, standard deviation: 0.01997128315269947 
+AUPR: mean: 0.5300528407096863, standard deviation: 0.01830255798995495 
+Loss: mean: 0.05800124630331993, standard deviation: 0.00022748317860532552 
+training time per epoch: mean: 70.74286580085754 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 12, dropout 0.1, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5324258208274841, standard deviation: 0.00818224810063839 
+AUPR: mean: 0.5477767586708069, standard deviation: 0.04636400192975998 
+Loss: mean: 0.057980675250291824, standard deviation: 0.00022132942103780806 
+training time per epoch: mean: 37.31428074836731 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 12, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5243290066719055, standard deviation: 0.010018053464591503 
+AUPR: mean: 0.5304573178291321, standard deviation: 0.04357099533081055 
+Loss: mean: 0.057720083743333817, standard deviation: 1.6032192434067838e-05 
+training time per epoch: mean: 70.64218060175578 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 12, dropout 0.3, dense nodes 100, maxpooling True, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5527420043945312, standard deviation: 0.011214095167815685 
+AUPR: mean: 0.5615589022636414, standard deviation: 0.03588871285319328 
+Loss: mean: 0.05764515697956085, standard deviation: 0.00015756693028379232 
+training time per epoch: mean: 37.96639768282572 
+ 

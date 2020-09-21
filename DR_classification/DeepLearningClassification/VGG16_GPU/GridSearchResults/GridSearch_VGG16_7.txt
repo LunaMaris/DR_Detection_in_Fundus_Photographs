@@ -1,0 +1,14 @@
+Hyperparameter combination: 
+learn rate 0.001, batch size 12, dropout 0.1, dense nodes [1000, 1000, 100], optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.5002866387367249, standard deviation: 0.0526810847222805 
+Loss: mean: 0.6424118876457214, standard deviation: 0.008127055130898952 
+training time per epoch: mean: 231.53494111696878 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 12, dropout 0.1, dense nodes [1000, 1000, 100], optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5381369590759277, standard deviation: 0.024000875651836395 
+AUPR: mean: 0.5580999255180359, standard deviation: 0.04001676291227341 
+Loss: mean: 0.057761698961257935, standard deviation: 9.782764391275123e-05 
+training time per epoch: mean: 245.44626339276633 
+ 

@@ -1,0 +1,336 @@
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.9409304261207581, standard deviation: 0.02444101683795452 
+AUPR: mean: 0.6101869940757751, standard deviation: 0.045747313648462296 
+Loss: mean: 0.03201725706458092, standard deviation: 0.0038944410625845194 
+training time per epoch: mean: 386.51639771461487 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9132027626037598, standard deviation: 0.01927381195127964 
+AUPR: mean: 0.5876049399375916, standard deviation: 0.03589170053601265 
+Loss: mean: 0.033807430416345596, standard deviation: 0.001486497581936419 
+training time per epoch: mean: 139.98121174176535 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.9098154902458191, standard deviation: 0.01059029158204794 
+AUPR: mean: 0.5212266445159912, standard deviation: 0.078950896859169 
+Loss: mean: 0.03786501660943031, standard deviation: 0.0050908662378787994 
+training time per epoch: mean: 385.3500241438548 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9315726161003113, standard deviation: 0.017533058300614357 
+AUPR: mean: 0.6090373992919922, standard deviation: 0.06314420700073242 
+Loss: mean: 0.030876299366354942, standard deviation: 0.003636353649199009 
+training time per epoch: mean: 139.90879011154175 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.9403014183044434, standard deviation: 0.013148200698196888 
+AUPR: mean: 0.5740072727203369, standard deviation: 0.03663601726293564 
+Loss: mean: 0.03565743938088417, standard deviation: 0.004347530659288168 
+training time per epoch: mean: 364.97847270965576 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.8990364074707031, standard deviation: 0.036357566714286804 
+AUPR: mean: 0.5059652924537659, standard deviation: 0.1743510365486145 
+Loss: mean: 0.03716381639242172, standard deviation: 0.008936184458434582 
+training time per epoch: mean: 135.16751662890115 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.8847065567970276, standard deviation: 0.024209385737776756 
+AUPR: mean: 0.4529649317264557, standard deviation: 0.03197501227259636 
+Loss: mean: 0.041659194976091385, standard deviation: 0.002933189971372485 
+training time per epoch: mean: 362.5649456183116 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9279155731201172, standard deviation: 0.023146919906139374 
+AUPR: mean: 0.5125576257705688, standard deviation: 0.12299296259880066 
+Loss: mean: 0.04029814526438713, standard deviation: 0.012727513909339905 
+training time per epoch: mean: 133.17031502723694 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.800967276096344, standard deviation: 0.020107390359044075 
+AUPR: mean: 0.2366541475057602, standard deviation: 0.038942188024520874 
+Loss: mean: 0.09324749559164047, standard deviation: 0.02430586889386177 
+training time per epoch: mean: 406.1976749897003 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.6922435760498047, standard deviation: 0.04698597267270088 
+AUPR: mean: 0.0732421725988388, standard deviation: 0.03625505790114403 
+Loss: mean: 0.5564918518066406, standard deviation: 0.3774508535861969 
+training time per epoch: mean: 143.83442441622415 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.6820833683013916, standard deviation: 0.1586139053106308 
+AUPR: mean: 0.1283704936504364, standard deviation: 0.08190440386533737 
+Loss: mean: 0.10413298010826111, standard deviation: 0.02457777038216591 
+training time per epoch: mean: 406.01991605758667 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5809828639030457, standard deviation: 0.05961211025714874 
+AUPR: mean: 0.01961262710392475, standard deviation: 0.005737889092415571 
+Loss: mean: 0.08809805661439896, standard deviation: 0.0036529419012367725 
+training time per epoch: mean: 142.7070206006368 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.8340039253234863, standard deviation: 0.01462151762098074 
+AUPR: mean: 0.3072228729724884, standard deviation: 0.01092751044780016 
+Loss: mean: 0.18771569430828094, standard deviation: 0.08748089522123337 
+training time per epoch: mean: 388.2968641916911 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5940079092979431, standard deviation: 0.06391069293022156 
+AUPR: mean: 0.02161671221256256, standard deviation: 0.008643196895718575 
+Loss: mean: 0.08091017603874207, standard deviation: 0.0068972911685705185 
+training time per epoch: mean: 137.4999260107676 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.675135612487793, standard deviation: 0.10010556131601334 
+AUPR: mean: 0.10453274101018906, standard deviation: 0.11297305673360825 
+Loss: mean: 0.12844492495059967, standard deviation: 0.05897371470928192 
+training time per epoch: mean: 388.01838715871173 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function UNet_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.43984976410865784, standard deviation: 0.08042862266302109 
+AUPR: mean: 0.012266586534678936, standard deviation: 0.0016698045656085014 
+Loss: mean: 0.16225731372833252, standard deviation: 0.025869952514767647 
+training time per epoch: mean: 137.99998823801675 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.9415309429168701, standard deviation: 0.029460253193974495 
+AUPR: mean: 0.5862074494361877, standard deviation: 0.10013719648122787 
+Loss: mean: 0.0037730131298303604, standard deviation: 0.0007883840007707477 
+training time per epoch: mean: 979.2100876172384 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9467514157295227, standard deviation: 0.01903550513088703 
+AUPR: mean: 0.5681796669960022, standard deviation: 0.07727700471878052 
+Loss: mean: 0.0037507021334022284, standard deviation: 0.0004923341912217438 
+training time per epoch: mean: 324.8951640923818 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.915271520614624, standard deviation: 0.02258514240384102 
+AUPR: mean: 0.4851541519165039, standard deviation: 0.04815491661429405 
+Loss: mean: 0.0038426306564360857, standard deviation: 0.0004454016452655196 
+training time per epoch: mean: 976.8895171483358 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9563122391700745, standard deviation: 0.007605758961290121 
+AUPR: mean: 0.5681350827217102, standard deviation: 0.06016601622104645 
+Loss: mean: 0.003325347090139985, standard deviation: 0.00026483283727429807 
+training time per epoch: mean: 324.04407779375714 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.9458099007606506, standard deviation: 0.00985290389508009 
+AUPR: mean: 0.5582786202430725, standard deviation: 0.05807201564311981 
+Loss: mean: 0.00405599782243371, standard deviation: 0.0012197846081107855 
+training time per epoch: mean: 828.5286810398102 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9526717662811279, standard deviation: 0.015707245096564293 
+AUPR: mean: 0.5699034333229065, standard deviation: 0.06291982531547546 
+Loss: mean: 0.003384287701919675, standard deviation: 0.0005306650418788195 
+training time per epoch: mean: 299.477011124293 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.8701164722442627, standard deviation: 0.05433570593595505 
+AUPR: mean: 0.35083284974098206, standard deviation: 0.13492310047149658 
+Loss: mean: 0.0044275508262217045, standard deviation: 0.0006853382801637053 
+training time per epoch: mean: 831.9659674167633 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.9030895829200745, standard deviation: 0.03569667041301727 
+AUPR: mean: 0.42485642433166504, standard deviation: 0.10240619629621506 
+Loss: mean: 0.004233943298459053, standard deviation: 0.0007262167637236416 
+training time per epoch: mean: 299.51694281895954 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.6956343054771423, standard deviation: 0.10561829060316086 
+AUPR: mean: 0.12773622572422028, standard deviation: 0.0805506557226181 
+Loss: mean: 0.010138626210391521, standard deviation: 0.0027148390654474497 
+training time per epoch: mean: 1009.3619351387024 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5490900874137878, standard deviation: 0.11515972763299942 
+AUPR: mean: 0.03812335059046745, standard deviation: 0.03552703931927681 
+Loss: mean: 0.025637276470661163, standard deviation: 0.013247320428490639 
+training time per epoch: mean: 331.2005934715271 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.6514802575111389, standard deviation: 0.10481791198253632 
+AUPR: mean: 0.0803292989730835, standard deviation: 0.08249638229608536 
+Loss: mean: 0.015213683247566223, standard deviation: 0.0049111684784293175 
+training time per epoch: mean: 1013.7342155774435 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.47147783637046814, standard deviation: 0.0053071510046720505 
+AUPR: mean: 0.013166834600269794, standard deviation: 0.00023795610468368977 
+Loss: mean: 0.05093255266547203, standard deviation: 0.015605434775352478 
+training time per epoch: mean: 331.27848354975384 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.6135486960411072, standard deviation: 0.14245092868804932 
+AUPR: mean: 0.09687720984220505, standard deviation: 0.09632524102926254 
+Loss: mean: 0.014673241414129734, standard deviation: 0.01067974604666233 
+training time per epoch: mean: 854.14284380277 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.45279785990715027, standard deviation: 0.06244226172566414 
+AUPR: mean: 0.014970132149755955, standard deviation: 0.004430084954947233 
+Loss: mean: 0.03570863604545593, standard deviation: 0.012085136957466602 
+training time per epoch: mean: 304.9624954859416 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5118667483329773, standard deviation: 0.14393828809261322 
+AUPR: mean: 0.04764644429087639, standard deviation: 0.051290206611156464 
+Loss: mean: 0.01840146817266941, standard deviation: 0.007308424916118383 
+training time per epoch: mean: 857.4918966293335 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function Sfce_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.4630543291568756, standard deviation: 0.008120406419038773 
+AUPR: mean: 0.012683776207268238, standard deviation: 0.00014228826330509037 
+Loss: mean: 0.033329203724861145, standard deviation: 0.01167659368366003 
+training time per epoch: mean: 304.7785240809123 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.01498327124863863, standard deviation: 0.0 
+Loss: mean: 0.0177129078656435, standard deviation: 0.025049833580851555 
+training time per epoch: mean: 383.0010923544566 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.01498327124863863, standard deviation: 0.0 
+Loss: mean: 0.0177129078656435, standard deviation: 0.025049833580851555 
+training time per epoch: mean: 136.77038725217184 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.01498327124863863, standard deviation: 0.0 
+Loss: mean: 0.0177129078656435, standard deviation: 0.025049833580851555 
+training time per epoch: mean: 378.35161741574603 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 3, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.01498327124863863, standard deviation: 0.0 
+Loss: mean: 0.0, standard deviation: 0.0 
+training time per epoch: mean: 135.9654324054718 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.014692443422973156, standard deviation: 9.313225746154785e-10 
+Loss: mean: 0.035425815731287, standard deviation: 0.025049835443496704 
+training time per epoch: mean: 358.2045319080353 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.4999999701976776, standard deviation: 5.706710481945265e-08 
+AUPR: mean: 0.014692421071231365, standard deviation: 2.9855630856445714e-08 
+Loss: mean: 0.0177129078656435, standard deviation: 0.025049835443496704 
+training time per epoch: mean: 131.3142338593801 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.014692443422973156, standard deviation: 9.313225746154785e-10 
+Loss: mean: 0.0, standard deviation: 0.0 
+training time per epoch: mean: 360.7621230284373 
+ 
+Hyperparameter combination: 
+learn rate 0.001, batch size 6, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.5, standard deviation: 0.0 
+AUPR: mean: 0.014692443422973156, standard deviation: 9.313225746154785e-10 
+Loss: mean: 0.0177129078656435, standard deviation: 0.025049835443496704 
+training time per epoch: mean: 131.07858737309775 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.4935893714427948, standard deviation: 0.009593128226697445 
+AUPR: mean: 0.01450696587562561, standard deviation: 0.000689216423779726 
+Loss: mean: 0.03542765974998474, standard deviation: 0.025049423798918724 
+training time per epoch: mean: 396.98895875612897 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.48470112681388855, standard deviation: 0.0016597245121374726 
+AUPR: mean: 0.013773736543953419, standard deviation: 8.856252679834142e-05 
+Loss: mean: 8.699783393240068e-06, standard deviation: 2.4627643142594025e-06 
+training time per epoch: mean: 143.728541692098 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.4857335388660431, standard deviation: 0.004653831943869591 
+AUPR: mean: 0.013844664208590984, standard deviation: 0.00024989075609482825 
+Loss: mean: 1.829910797823686e-05, standard deviation: 1.911534127430059e-05 
+training time per epoch: mean: 399.8747475941976 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 3, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.48280254006385803, standard deviation: 0.005155076738446951 
+AUPR: mean: 0.013691113330423832, standard deviation: 0.00027863102150149643 
+Loss: mean: 8.376701589440927e-05, standard deviation: 9.93316643871367e-05 
+training time per epoch: mean: 143.58001581827799 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.48132964968681335, standard deviation: 0.0015969788655638695 
+AUPR: mean: 0.0133334556594491, standard deviation: 7.592108158860356e-05 
+Loss: mean: 8.864966730470769e-06, standard deviation: 9.988091733248439e-06 
+training time per epoch: mean: 383.3626072406769 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.3, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.4885798990726471, standard deviation: 0.004940030165016651 
+AUPR: mean: 0.013739384710788727, standard deviation: 0.0002839649096131325 
+Loss: mean: 9.87508610705845e-05, standard deviation: 9.937247523339465e-05 
+training time per epoch: mean: 136.9708205064138 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 64 and epochs 25 
+AUC: mean: 0.490804523229599, standard deviation: 0.012047714553773403 
+AUPR: mean: 0.013914291746914387, standard deviation: 0.0007253087824210525 
+Loss: mean: 0.017738914117217064, standard deviation: 0.025058308616280556 
+training time per epoch: mean: 375.4575804869334 
+ 
+Hyperparameter combination: 
+learn rate 1e-05, batch size 6, dropout 0.5, loss function Asl_loss, optimization Adam, initial filters 32 and epochs 25 
+AUC: mean: 0.48199963569641113, standard deviation: 0.0015785201685503125 
+AUPR: mean: 0.013366244733333588, standard deviation: 7.690847996855155e-05 
+Loss: mean: 6.598645268240944e-05, standard deviation: 5.96457721258048e-05 
+training time per epoch: mean: 137.22218402226767 
+ 
