@@ -1,2 +1,2 @@
-# DR_Detection_in_Fundus_Photographs
- 
+# Internship_ENTStudios
+ Automatic detection of DR in fundus photographs
